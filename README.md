@@ -5,6 +5,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
+![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/saimhafeez2020?theme=neutral)
+
 | Project  | Languages | Link |
 | ------------- | ------------- | ------------- |
 | SQL Practive Problems 57: Solutions  | [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](#)  | [![Javascript Course](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saimhafeez/mrh-SQL-Practice-Problems)  |
