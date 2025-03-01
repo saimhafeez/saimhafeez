@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/saimhafeez2020?theme=light)
+![Saim Hafeez's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/saimhafeez2020?theme=light)
 
 | Project  | Languages | Link |
 | ------------- | ------------- | ------------- |
